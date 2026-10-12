@@ -111,7 +111,7 @@ packageJson = {
     ...exportsList,
   },
   keywords: ['type-react', 'vvi', 'mudbean'],
-  homepage: 'https://npm.lmssee.cn/type/react',
+  homepage: 'https://npms.gleanings.cn/type/react',
   dependencies: dependencies,
   bugs: {
     url: 'https://github.com/gleanings/type-react/issues',
